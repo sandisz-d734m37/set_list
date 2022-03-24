@@ -1,0 +1,299 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/sandiszthieme/turing/2module/classwork/set_list/config/environment.rb": {
+        "lines": [
+          null,
+          1,
+          null,
+          null,
+          1
+        ]
+      },
+      "/Users/sandiszthieme/turing/2module/classwork/set_list/config/application.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/sandiszthieme/turing/2module/classwork/set_list/config/boot.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1
+        ]
+      },
+      "/Users/sandiszthieme/turing/2module/classwork/set_list/config/environments/test.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/sandiszthieme/turing/2module/classwork/set_list/config/initializers/application_controller_renderer.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/sandiszthieme/turing/2module/classwork/set_list/config/initializers/assets.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/sandiszthieme/turing/2module/classwork/set_list/config/initializers/backtrace_silencers.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/sandiszthieme/turing/2module/classwork/set_list/config/initializers/content_security_policy.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/sandiszthieme/turing/2module/classwork/set_list/config/initializers/cookies_serializer.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          1
+        ]
+      },
+      "/Users/sandiszthieme/turing/2module/classwork/set_list/config/initializers/filter_parameter_logging.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          1
+        ]
+      },
+      "/Users/sandiszthieme/turing/2module/classwork/set_list/config/initializers/inflections.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/sandiszthieme/turing/2module/classwork/set_list/config/initializers/mime_types.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/sandiszthieme/turing/2module/classwork/set_list/config/initializers/wrap_parameters.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/sandiszthieme/turing/2module/classwork/set_list/config/routes.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/sandiszthieme/turing/2module/classwork/set_list/app/helpers/application_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/sandiszthieme/turing/2module/classwork/set_list/app/models/artist.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/sandiszthieme/turing/2module/classwork/set_list/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/sandiszthieme/turing/2module/classwork/set_list/app/models/song.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/sandiszthieme/turing/2module/classwork/set_list/app/controllers/songs_controller.rb": {
+        "lines": [
+          1,
+          1,
+          0,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/sandiszthieme/turing/2module/classwork/set_list/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      }
+    },
+    "timestamp": 1648070707
+  }
+}
