@@ -9,5 +9,6 @@ Rails.application.routes.draw do
   get '/artists/new', to: 'artists#new'
 
   post '/artists', to: 'artists#create'
-  # get 'artists/:id', to:
+  get 'artists/:id/edit', to: 'artists#edit'
+  patch '/artists/:id', to: 'artists#update'
 end
